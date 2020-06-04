@@ -24,4 +24,4 @@ PROJECT:
         
         JobSatisfactionByWorldRegion.ipynb  
         
-and the main findings can be found [here](https://medium.com/@pirsqred/where-in-the-world-can-you-have-the-most-satisfying-job-4d4f9b066e52)
+and the main findings can be found [here](https://medium.com/@pirsqred/where-in-the-world-can-you-have-the-most-satisfying-job-4d4f9b066e52) on my blog
