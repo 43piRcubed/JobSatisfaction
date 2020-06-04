@@ -1,6 +1,4 @@
-This 
-
-During this project I will be using Python 3.7 as part of an Anaconda Package.
+For this project I will be using Python 3.7 as part of an Anaconda Package.
 
 Thank you to Stack Overflow for the help it has provided me with coding questions
 
